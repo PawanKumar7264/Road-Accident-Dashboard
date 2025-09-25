@@ -90,4 +90,4 @@ Data-Driven Policies: Supports decisions on infrastructure upgrades or education
 Cost Savings: Reduces economic impact through prevention.
 
 ### 6. Screenshots / Demos
-![Dashboard Preview](https://github.com/PawanKumar7264/Accident_Report/blob/main/snapshot_dashboard.png)
+![Dashboard Preview]( https://github.com/PawanKumar7264/Road-Accident-Dashboard/blob/main/Screenshot%202025-09-26%20002447.png)
